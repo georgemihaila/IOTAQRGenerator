@@ -1,0 +1,14 @@
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\IOTAQRGenerator.exe.config
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\IOTAQRGenerator.exe
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\IOTAQRGenerator.pdb
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\obj\Debug\IOTAQRGenerator.csprojResolveAssemblyReference.cache
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\obj\Debug\IOTAQRGenerator.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\obj\Debug\IOTAQRGenerator.exe
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\obj\Debug\IOTAQRGenerator.pdb
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Templates\Template1.png
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Templates\Template2.png
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Templates\Template3.png
+C:\Users\George\source\repos\IOTAQRGenerator\IOTAQRGenerator\bin\Debug\Templates\Template4.png
